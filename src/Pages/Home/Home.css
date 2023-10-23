@@ -1,0 +1,15 @@
+.btn {
+    color: aqua;
+    background-color: black;
+    width: 6rem;
+    margin-left: 20px;
+    border-radius: 5px;
+    padding: 3px;
+
+
+}
+
+.btn:hover {
+    color: white;
+    background-color: rgb(76, 75, 75);
+}
